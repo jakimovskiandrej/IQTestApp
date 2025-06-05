@@ -1,0 +1,33 @@
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignore folders created by Visual Studio IntelliCode
+.vsconfig/
+
+# Ignore Resharper files
+_ReSharper*/
+
+# Ignore dotCover files
+*.dotCover
+
+# Ignore Visual Studio Code files
+.vscode/
+
+# Ignore packages folder
+packages/
+
+# Ignore NuGet binaries
+*.nupkg
+*.snupkg
+
+# Ignore build output folders
+bin/
+obj/
+
+# Ignore Rider files
+.idea/
