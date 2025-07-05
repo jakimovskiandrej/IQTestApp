@@ -16,7 +16,7 @@
 4. По завршување на тестот, ќе добиете ваш IQ резултат.
 
 ## Визуелен приказ на играта
-![image](https://github.com/user-attachments/assets/09095344-28bc-4e5a-a6fb-e49db2d239aa)
-![image](https://github.com/user-attachments/assets/e81c65f4-91ff-4a2b-96b3-739ff4f07d0f)
-![image](https://github.com/user-attachments/assets/be57df33-0735-434d-809f-6c617c5cffbe)
-![image](https://github.com/user-attachments/assets/eceba2c1-072f-4040-a94c-701388fad225)
+![image](https://github.com/user-attachments/assets/847efebb-397a-4328-8f87-c1c1bae1615b)
+![image](https://github.com/user-attachments/assets/54d471a5-ba16-4794-b636-9c109400bea0)
+![image](https://github.com/user-attachments/assets/9dc09ce7-b322-45f8-b42d-87dbf617b7e8)
+![image](https://github.com/user-attachments/assets/9918c39a-5c84-44c4-8d4b-ea4daddd2ce9)
